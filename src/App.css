@@ -1,0 +1,174 @@
+body{
+background-color: #ffffff;
+width: 100%;
+display: flex;
+flex-direction:column;
+align-items: center;
+align-content: center;
+
+
+}
+
+.kathe_img{
+  height: 230px;
+  width: 170px;
+  border-radius: 50px;
+  margin: 30px;
+
+}
+
+.header{
+  background-color: #7890a8;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  align-content: center;
+  justify-content: center;
+  text-align: center;
+  color:#ffffff;
+  height: 300px;
+  width: 70%;
+  border-top-left-radius:50px;
+  border-top-right-radius:50px;
+  margin-left: 50px;
+  margin-right: 50px;
+  margin-top: 30px;
+  font-size: 20px;
+  font-family: 'Times New Roman', Times, serif;
+  
+
+}
+
+.academic{
+  background-color:#7890a8;
+  height: 200px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  align-content: center;
+  justify-content: center;
+  text-align: center;
+  color:#ffffff;
+  width: 35%;
+  margin-top: 10px;
+  margin-left: 5px;
+}
+
+.experience{
+  background-color: #606087;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  align-content: center;
+  justify-content: center;
+  text-align: center;
+  color:#ffffff;
+  height: 200px;
+  width: 70%;
+  margin-left: 50px;
+  margin-right: 50px;
+  margin-top: 10px;
+}
+
+.interest{
+  background-color: #7890a8;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  align-content: center;
+  justify-content: center;
+  text-align: center;
+  color:#ffffff;
+  width: 35%;
+ margin-left: 50px;
+ margin-top: 10px;
+ margin-right: 5px;
+  
+}
+
+.languages{
+  background-color: #7890a8;
+  display: flex;
+  flex-direction:column;
+  align-items: center;
+  align-content: center;
+  justify-content: center;
+  text-align: center;
+  color:#ffffff;
+  width: 35%;
+  margin-top: 10px;
+  margin-left: 5px;
+}
+
+.profile{
+  background-color: #606087;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  align-content: center;
+  justify-content: center;
+  text-align: center;
+  color:#ffffff;
+  width: 70%;
+  margin-left: 50px;
+  margin-right: 50px;
+  
+}
+
+.certificate{
+  background-color: #606087;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  align-content: center;
+  justify-content: center;
+  text-align: center;
+  color:#ffffff;
+  width: 70%;
+  margin-left: 50px;
+  margin-right: 50px;
+  margin-top: 10px;
+}
+
+.skills{
+  background-color: #7890a8;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  align-content: center;
+  justify-content: center;
+  text-align: center;
+  color:#ffffff;
+  width: 35%;
+  margin-right: 5px;
+  margin-left: 50px;
+  margin-top: 10px;
+}
+
+.social{
+  background-color: #606087;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  align-content: center;
+  justify-content: center;
+  text-align: center;
+  color:#ffffff;
+  width: 70%;
+  margin-left: 50px;
+  margin-right: 50px;
+  margin-top: 10px;
+  margin-bottom: 20px;
+}
+
+.container-skills-academic{
+  display: flex;
+  flex-direction: row;
+  width: 100%;
+}
+
+.container-interest-lenguages{
+  display: flex;
+  flex-direction: row;
+  width: 100%; 
+}
