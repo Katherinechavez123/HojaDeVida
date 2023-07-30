@@ -1,6 +1,6 @@
 export const data = {
   name: "Deicy Katherine Chavez Olaya",
-  profession: "Front-End Developer",
+  profession: "Desarrolladora Front-End",
   address: "Armenia, Colombia.",
   email: "katherinechavezolaya@gmail.com",
   phone: "3163597114",
@@ -8,7 +8,7 @@ export const data = {
 
   profile: [
     {
-    profile:"Developer",
+    profile:"Desarrolladora de software",
     description: "I am a proactive and creative person. I am a team worker person I love and giving solutions to optimize tasks with my teammates.In my spare time I go to the gym, read books, cook, and do alternate courses that can help me to broaden my knowledge.",
     }
   ],
@@ -16,7 +16,7 @@ export const data = {
     {
       date: "April 2022",
       description: "Graduated as a Developer.",
-      institution: "Gran Colombia University",
+      institution: "Sena Centro de comercio y turismo",
       name: "Developer",
     },
   ],
@@ -32,8 +32,8 @@ export const data = {
   ],
   experience: [
     {
-      company: "PugStar",
-      endDate: "Present",
+      company: "Redetronic",
+      endDate: "Presente",
       jobDescription:
         "scratch the furniture. Good now the other hand, too lay on arms while you're using the keyboard.",
       jobTitle: "Backend",
@@ -42,15 +42,23 @@ export const data = {
   ],
   skills: [
     {
-      name: "HTML5",
+      name: "C#",
       percentage: "75%",
     },
     {
       name: "Javascript",
+      percentage: "80%",
+    },
+    {
+      name: "HTML y CSS",
+      percentage: "90%%",
+    },
+    {
+      name: "Python",
       percentage: "50%"  
     }
   ],
-  interest: ["javascript", "C#", "develop", "backend"],
+  interest: ["React", "Angular", "Front-end", "backend"],
   languages: [
     {
       name: "Spanish",
@@ -64,11 +72,11 @@ export const data = {
   social: [
     {
       name: "github",
-      url: "https://github.com/",
+      url: "Katherinechavez123",
     },
     {
-      name: "linkedin",
-      url: "https://www.linkedin.com/",
+      name: "instagram",
+      url: "kathe_chavez_"
     },
   ],
 };

@@ -7,14 +7,16 @@ export default function Experience() {
       <div className="experience">
         {data.experience.map((val, index) => (
           <>
-          <h2>EXPERIENCE</h2>
+            <h2>EXPERIENCE</h2>
             {val.company} <br />
             {val.endDate} <br />
             {val.jobDescription} <br />
             {val.jobTitle} <br />
             {val.startDate}
+            <br />
           </>
         ))}
+        <br />
       </div>
     </>
   );

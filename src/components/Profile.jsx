@@ -5,13 +5,14 @@ export default function Profile() {
   return (
     <>
       <>
-      <div className="profile">
-        <h2>PROFILE</h2>
+        <div className="profile">
+          <h2>PROFILE</h2>
           {data.profile.map((val, index) => (
             <>
-            {val.profile} <br />
-            {val.description}<br />
-
+              {val.profile} <br />
+              {val.description}
+              <br />
+              <br />
             </>
           ))}
         </div>

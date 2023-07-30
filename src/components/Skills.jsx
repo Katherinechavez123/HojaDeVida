@@ -5,11 +5,12 @@ export default function Skills() {
   return (
     <>
       <div className="skills">
-      <h2>SKILLS</h2>
+      <h2 className="skills-tittle">SKILLS</h2>
         {data.skills.map((val, index) => (
           <>
             {val.name} <br />
-            {val.percentage} <br />
+            {val.percentage} 
+            <br />
           </>
         ))}
       </div>

@@ -13,6 +13,7 @@ export default function Academic() {
             {val.institution} <br />
             {val.endDate} <br />
             {val.startDate}
+            <br />
           </>
         ))}
       </div>

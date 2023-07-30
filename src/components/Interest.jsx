@@ -10,6 +10,7 @@ export default function Interest() {
         {data.interest.map((val) => (
           <>
             {val} <br />
+            <br />
           </>
         ))}
       </>

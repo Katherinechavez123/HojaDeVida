@@ -13,8 +13,10 @@ export default function Certificate() {
               {val.description} <br />
               {val.institution} <br />
               {val.name}
+              <br />
             </>
           ))}
+          <br />
         </div>
       </>
     </>

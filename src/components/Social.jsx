@@ -11,6 +11,7 @@ export default function Social() {
           <>
             {val.namee} <br />
             {val.url} <br />
+            <br />
           </>
         ))}
       </>
